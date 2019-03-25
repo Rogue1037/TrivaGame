@@ -1,0 +1,40 @@
+h1, .jumbotron {
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+  color: crimson;
+  
+}
+
+.jumbotron {
+  background-image: url('../images/symbol\ header.png ');
+  
+}
+
+body {
+	font-family:  'Permanent Marker', cursive;
+  text-align: center;
+  color: whitesmoke;
+  letter-spacing: 2.2px;
+
+}
+
+img {
+	width: 400px;
+	height: 400px;
+}
+
+.btn { 
+  color: black; 
+  background-color: crimson; 
+ 
+} 
+ 
+#backgroundImage{
+  background-image: url(../images/deathstar_background.jpg);
+  height: 900px;
+ 
+}
+ 
+
+ 
+
